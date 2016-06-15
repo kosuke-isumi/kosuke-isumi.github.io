@@ -70,7 +70,7 @@ h2 {
 }
 
 .profile #wrapper {
-	padding: 100px 40px 0px;
+	padding: 50px 40px 0px;
 	max-width: 600px;
 	margin: 0 auto;
 }
@@ -106,6 +106,27 @@ h2 {
 	  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	  font-style: normal;
 
+}
+
+.blog-title #wrapper {
+	padding: 70px 40px 0px;
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.blog-title #header {
+	border-bottom: 1px solid #eee;
+	margin-bottom: 0px;
+	padding-bottom: 30px;
+	text-align: center;
+	position: relative;
+}
+
+.blog-title h1 {
+	font-weight: 700;
+	letter-spacing: 1px;
+	font-size: 35px;
+	color: #222;
 }
 
 nav.main-nav {
@@ -373,7 +394,7 @@ img {
 Post List
 =========================================== */
 #post-list,#archive-list {
-	margin-top: 80px;
+	margin-top: 60px;
 }
 
 #post-list li,#archive-list li {
